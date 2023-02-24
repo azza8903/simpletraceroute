@@ -19,13 +19,13 @@ except Exception as e:
 		 "google.com",
 		 "YouTube.com",
 		 "facebook.com",
-                 "Pornhub.com",
-                 "Xvideos.com",
-                 "Twitter.com",
-                 "Wikipedia.org",
-                 "Reddit.com",
-                 "Instagram.com",
-                 "Xnxx.com"
+                 "baidu.com",
+                 "wikipedia.com",
+                 "qq.com",
+                 "taobao.org",
+                 "tmall.com",
+                 "yahoo.com",
+                 "amazon.com"
         ],
         "interfaces":[
                 "op0",
